@@ -1,7 +1,7 @@
 # Sakai React (Next.js) 웹 실행 가이드
 
-이 문서는 이 프로젝트를 **웹 기반으로 실행**하기 위해 필요한 기술 요소와 실행 방법(로컬/도커)을 정리한 운영용 가이드입니다.
-
+> 이 문서는 이 프로젝트를 **웹 기반으로 실행**하기 위해 필요한 기술 요소와 실행 방법(로컬/도커)을 정리한 운영용 가이드입니다.
+> https://github.com/primefaces 의 repo 를 private 으로 플젝 진행 후 public 으로 진행한 repo 로 원본 기술 및 repo 는 https://github.com/primefaces 를 참고해 주시기 바랍니다.
 ---
 
 ## 1) 프로젝트 개요
